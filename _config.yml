@@ -31,7 +31,7 @@ comments:
   distractionFreeMode: true
   
 user:
-  name: 安艺有栖aki arisu
+  name: 安艺有栖 aki arisu
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: 
@@ -48,7 +48,7 @@ defaults:
       type: posts
     values:
       layout: post
-      # comment: true   
+      # comment: false   
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
