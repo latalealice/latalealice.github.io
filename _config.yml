@@ -18,7 +18,7 @@ cusdis:
     app_id: #your cusdis app_id
     
 #gitment
-#comment_gitment_repo: fuchongguang.github.io
+#comment_gitment_repo: latalealice.github.io
 #comment_gitment_clientId: b2f464468ce80d2e224f
 #comment_gitment_clientSecret: 3c56ba8ab7c794f2176c63efa443e30028595dcc
 comments:
