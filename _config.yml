@@ -1,11 +1,11 @@
 
-title:A la recherche du temps perdu
-email: choglot@163.com 
+title: A la recherche du temps perdu
+email: latalealice@protonmail.com 
 description: > # this means to ignore newlines until "baseurl"
   I know nothing, except the fact of my ignorance.
 
 baseurl: # the subpath of the site
-url: http://fuchongguang.github.io # the base hostname & protocol for your site
+url: http://latalealice.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
@@ -26,8 +26,8 @@ comments:
   gitalk_clientID: bfcfcdb609c96e4f4b99
   gitalk_Secret: 332472b24d7b2eb146a81c944cd76b11a7935b80
   gitalk_repo: fcg-gitalk-comment
-  gitalk_owner: fuchongguang
-  gitalk_admin: fuchongguang
+  gitalk_owner: latalealice
+  gitalk_admin: latalealice
   distractionFreeMode: true
   
 user:
