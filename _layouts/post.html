@@ -1,0 +1,79 @@
+---
+layout: page
+---
+
+<div class="post">
+  <div>
+    {% if page.title %}
+    <p class="post_title">{{ page.title }}</p>
+    {% endif %}
+  </div>
+  <div class="post_data">
+    {% if page.date %}
+    <span class="post_date">{{ page.date | date: "%b %-d, %Y" }}</span>
+    {% endif %}
+    {% if page.categories %}
+    <span class="post_categories">
+      &raquo; {% for cat_name in page.categories %}
+      <a href="{{ site.baseurl }}/categories/{{ cat_name }}">{{ cat_name }}</a>{% if forloop.last == false %},
+      {% endif %}{% endfor %}
+    </span>
+    {% endif %}
+  </div>
+  <div class="post_content">
+    {{ content }}
+  </div>
+
+
+<!--  {% if page.comment %}
+  <div class="post_comment">
+
+    {% include disqus.html username = site.disqus.shortname %}
+    {% include cusdis.html %}
+
+  </div>
+  {% endif %}
+  
+    
+ {% if site.comments.gitalk %}
+  <div id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  
+    <script>
+        var gitalk = new Gitalk({
+              clientID: '{{ site.comments.gitalk_clientID }}',
+              clientSecret: '{{ site.comments.gitalk_Secret }}',
+              repo: '{{ site.comments.gitalk_repo }}',
+              owner: '{{ site.comments.gitalk_owner }}',
+              admin: '{{ site.comments.gitalk_admin }}',
+              id: location.pathname,      // Ensure uniqueness and length less than 50{{ page.title }}
+              distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
+            })
+
+            gitalk.render('gitalk-container')
+    </script>
+  {% endif %}-->
+
+  
+  <section class="post-full-comments">
+    {{!-- gittalk --}}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+    <div id="gitalk-container"></div>
+    <script>
+        var gitalk = new Gitalk({
+            clientID: 'bfcfcdb609c96e4f4b99',
+            clientSecret: 'd4e3eab28a82eb533cf6a6c1ff13a13a3c234d72',
+            repo: 'fuchongguang.github.io',
+            owner: 'fuchongguang',
+            admin: ['fuchongguang'], //这里可以填写具有写权限的用户名列表，用来初始化Issues的
+            id: decodeURI(location.pathname),
+          title: 'comments',
+            distractionFreeMode: false // Facebook-like distraction free mode
+        });
+        gitalk.render('gitalk-container');
+    </script>
+</section>
+  
+</div>

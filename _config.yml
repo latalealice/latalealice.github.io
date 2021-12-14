@@ -1,0 +1,60 @@
+
+title: 无知之人 
+email: choglot@163.com 
+description: > # this means to ignore newlines until "baseurl"
+  I know nothing, except the fact of my ignorance.
+
+baseurl: # the subpath of the site
+url: http://fuchongguang.github.io # the base hostname & protocol for your site
+
+permalink: /:year-:month/:title
+timezone:
+
+favicon: /assets/img/favicon.ico
+
+google_analytics: #UA—XXXXXXXX-X
+disqus_shortname: #disqus shortname
+cusdis:
+    app_id: #your cusdis app_id
+    
+#gitment
+#comment_gitment_repo: fuchongguang.github.io
+#comment_gitment_clientId: b2f464468ce80d2e224f
+#comment_gitment_clientSecret: 3c56ba8ab7c794f2176c63efa443e30028595dcc
+comments:
+  gitalk: true
+  gitalk_clientID: bfcfcdb609c96e4f4b99
+  gitalk_Secret: 332472b24d7b2eb146a81c944cd76b11a7935b80
+  gitalk_repo: fcg-gitalk-comment
+  gitalk_owner: fuchongguang
+  gitalk_admin: fuchongguang
+  distractionFreeMode: true
+  
+user:
+  name: 无知之人
+  pic: /assets/img/cat.jpg
+  picAlt: "catbook"
+  job: 
+  aboutme: #true # comment this out if you don't need the 'about' page.
+
+exclude:
+  - README.md
+  - LICENSE
+  - github
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      # comment: true   
+
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown 
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
