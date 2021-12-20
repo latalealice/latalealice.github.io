@@ -34,7 +34,7 @@ user:
   name: 安艺有栖/aki arisu/latale alice
   pic: /assets/img/katou_megumi0.jpg
   picAlt: "catbook"
-  job: university student
+  job: student in 不死川大学
   aboutme: #true # comment this out if you don't need the 'about' page.
 
 exclude:
