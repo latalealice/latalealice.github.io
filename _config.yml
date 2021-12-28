@@ -25,7 +25,7 @@ comments:
   gitalk: true
   gitalk_clientID: bfcfcdb609c96e4f4b99
   gitalk_Secret: 332472b24d7b2eb146a81c944cd76b11a7935b80
-  gitalk_repo: fcg-gitalk-comment
+  gitalk_repo: alice-gitalk-comment
   gitalk_owner: latalealice
   gitalk_admin: latalealice
   distractionFreeMode: true
