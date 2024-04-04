@@ -39,11 +39,11 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : "latalealice"
-  codepen          : "latalealice"
-  dribbble         : "latalealice"
-  github           : "latalealice"
-  kaggle           : "latalealice"
+  bitbucket        : # "latalealice"
+  codepen          : # "latalealice"
+  dribbble         : # "latalealice"
+  github           : # "latalealice"
+  kaggle           : # "latalealice"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "qrmegumi"
+  twitter          : # "qrmegumi"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
