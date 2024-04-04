@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "À la recherche du temps perdu"
 author_profile: true
 redirect_from: 
   - /about/
