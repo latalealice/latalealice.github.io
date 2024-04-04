@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "这样就好"
   location         : "China"
-  employer         : "Nanjing University of Aeronautics and Astronautics"
+  employer         : "NUAA"
   uri              : # URL
   email            : "latalealice@nuaa.edu.cn" 
 
@@ -36,13 +36,13 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Rui-Qiu-15"
 
   # Repositories and software development
   bitbucket        : # "latalealice"
   codepen          : # "latalealice"
   dribbble         : # "latalealice"
-  github           : # "latalealice"
+  github           : "latalealice"
   kaggle           : # "latalealice"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
