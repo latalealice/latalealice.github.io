@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-11-17-The-Poor-Man’s-Introduction-to-Tensors
 excerpt: '该文适用于本科及以上对张量分析有了解掌握需求的入门者'
 date: 2023-11-17
-venue: 'GitHub Journal of Bugs'
 paperurl: 'http://latalealice.github.io/files/tensor.pdf'
 ---
 
