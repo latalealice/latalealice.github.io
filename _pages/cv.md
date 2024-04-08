@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Nanjing University of Aeronautics and Astronautics, 2023
+* B.E. Aerospace Engineering in Nanjing University of Aeronautics and Astronautics, 2023
 
 Work experience
 ======
