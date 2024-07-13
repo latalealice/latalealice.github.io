@@ -15,4 +15,4 @@ redirect_from:
 ======
 1. Further Studies on the Thermal Equilibrium of Gas Molecules  
 1. The Poor Man's Introduction to Tensors  
-1. 《数学分析讲义》刘玉琏第六版笔记
+1. StudyThinking ——《数学分析讲义》刘玉琏第六版笔记
