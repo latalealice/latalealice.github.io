@@ -12,7 +12,7 @@ title                    : "latale alice / À la recherche du temps perdu"
 title_separator          : "-"
 name                     : &name "latale alice"
 description              : &description "personal description"
-url                      : https://latalealice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://latalealice.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "latalealice/latalealice.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "China"
   employer         : "NUAA"
   uri              : # URL
-  email            : "latalealice@nuaa.edu.cn" 
+  email            : "latalealice@nuaa.edu.cn/quickresponse@nuaa.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
