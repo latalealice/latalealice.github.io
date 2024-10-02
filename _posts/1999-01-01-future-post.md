@@ -1,6 +1,6 @@
 ---
-title: '懊悔总是在事后'
-date: 2024-10-02
+title: 'yrst'
+date: 1909-10-02
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
