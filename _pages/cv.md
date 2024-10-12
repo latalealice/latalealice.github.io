@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.E. Aerospace Engineering in Nanjing University of Aeronautics and Astronautics, 2023  
-* M.E. Aeronautical and Astronautical Science and Technology in Nanjing University of Aeronautics and Astronautics, 2027
+* B.E. Aerospace Engineering, Nanjing University of Aeronautics and Astronautics, 2023  
+* M.E. Aeronautical and Astronautical Science and Technology, Nanjing University of Aeronautics and Astronautics, 2027
 
 
 Work experience
 ======
-  
+* NO 
 Skills
 ======
-* ComsolMultiphysics光学仿真
+* ComsolMultiphysics
 
 Publications
 ======
@@ -31,4 +31,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* NO
