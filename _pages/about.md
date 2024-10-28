@@ -11,11 +11,13 @@ redirect_from:
 移动端的UI显示依旧有问题，点击页面右上角的空白处即可呼出菜单栏  
 菜单栏第一行对应文件栏、第二行文件夹栏、第三行博客日志栏、第四行个人简介栏以及第五行导航栏  
 
-翻译论文与笔记
+翻译与笔记
 ======
-1. Further Studies on the Thermal Equilibrium of Gas Molecules  
-1. The Poor Man's Introduction to Tensors  
-1. StudyThinking ——《数学分析讲义》刘玉琏第六版笔记
+1. Further Studies on the Thermal Equilibrium of Gas Molecules(暂停)  
+
+1. StudyThinking ——《数学分析讲义》刘玉琏第六版笔记（暂停）
+
+1. Introduction to Machine Learning With Python
 
 追忆似水年华
 ======
