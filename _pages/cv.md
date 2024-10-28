@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.E. Aerospace Engineering, Nanjing University of Aeronautics and Astronautics, 2023  
-* M.E. Aeronautical and Astronautical Science and Technology, Nanjing University of Aeronautics and Astronautics, 2027
+* B.E. Aerospace Engineering, Nanjing University of Aeronautics and Astronautics
+* M.E. Aeronautical and Astronautical Science and Technology, Nanjing University of Aeronautics and Astronautics(currently enrolled)
 
 
 Work experience
 ======
-* NO 
+* NO
+
 Skills
 ======
 * ComsolMultiphysics
+* Machine Learning with Python
+
 
 Publications
 ======
