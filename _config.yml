@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-cn"
 title                    : "latale alice / À la recherche du temps perdu"
 title_separator          : "-"
 name                     : &name "latale alice"
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "这样就好"
   location         : "China"
-  employer         : "NUAA"
+  employer         : # "NUAA"
   uri              : # URL
-  email            : "latalealice@nuaa.edu.cn/quickresponse@nuaa.edu.cn" 
+  email            : "latalealice@nuaa.edu.cn;quickresponse@nuaa.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
