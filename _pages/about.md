@@ -23,3 +23,8 @@ redirect_from:
 ======
 1. 懊悔总是在事后
 1. 
+
+友情链接
+======
+[choglost's blog](https://choglost.github.io/)  
+[stats's blog](https://blogs.statsschools.top/)
