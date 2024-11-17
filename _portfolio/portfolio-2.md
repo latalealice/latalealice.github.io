@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 2"
-excerpt: "最近有些沉迷latale了 <br/><img src='/images/latale.png'>"
+excerpt: "最近有些沉迷latale<br/><img src='/images/latale.png'>"
 collection: portfolio
 ---
 
