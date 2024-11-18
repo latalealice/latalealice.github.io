@@ -15,9 +15,13 @@ redirect_from:
 ======
 1. Further Studies on the Thermal Equilibrium of Gas Molecules(暂停)  
 
-1. StudyThinking ——《数学分析讲义》刘玉琏第六版笔记（暂停）
+1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记（暂停）
 
 1. Introduction to Machine Learning With Python
+
+1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记
+
+
 
 追忆似水年华
 ======
