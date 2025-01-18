@@ -13,13 +13,13 @@ redirect_from:
 
 翻译与笔记
 ======
-1. Further Studies on the Thermal Equilibrium of Gas Molecules(暂停)  
+1. Further Studies on the Thermal Equilibrium of Gas Molecules(借由Deepseek辅以Claude重新翻译)  
 
-1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记（暂停）
+1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记
 
-1. Introduction to Machine Learning With Python
+1. Introduction to Machine Learning With Python（考虑到效率和时效性，暂停）
 
-1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记
+1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记（暂停）
 
 
 
@@ -30,5 +30,5 @@ redirect_from:
 
 友情链接
 ======
-[choglost's blog](https://choglost.github.io/)  
+[choglost's blog](https://choglost.site/)  
 [stats's blog](https://blogs.statsschools.top/)
