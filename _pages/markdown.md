@@ -70,9 +70,9 @@ Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进�
 
 > 引用很酷
 
-## Tables
+## 表格
 
-### Table 1
+### 表1
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -80,7 +80,7 @@ Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进�
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-### Table 2
+### 表2
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -93,49 +93,52 @@ ll5   | cell6   |
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
+## 定义列表
 
-Definition List Title
-:   Definition list division.
+定义列表标题
+：定义列表划分。
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+初创公司
+：初创公司或创业公司是指旨在寻求可重复、可扩展商业模式的公司或临时组织。
 
 #dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+：由 Rob Dyrdek 和他的私人保镖 Christopher “Big Black” Boykins 创造，“Do Work” 可以作为一种自我激励，也可以激励你的朋友
 
 Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+：让[Bill O'Reilly](https://www.youtube.com/watch?v=O_HyZ5aW76c “We'll Do It Live”) 来解释一下
 
-## Unordered Lists (Nested)
+## 无序列表（嵌套）
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+* 列表项一
+    * 列表项一
+      * 列表项一
+      * 列表项二
+      * 列表项三
+      * 列表项四
+    * 列表项二
+    * 列表项三
+    * 列表项四
+* 列表项二
+* 列表项三
+* 列表项四
 
-## Ordered List (Nested)
+## 有序列表（嵌套）
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+1. 列表项一
+    1. 列表项一
+        1. 列表项一
+        2. 列表项二
+        3. 列表项三
+        4. 列表项四
+    2. 列表项二
+    3. 列表项三
+    4. 列表项四
+2. 列表项二
+3. 列表项三
+4. 列表项四
+
+
+
 
 ## Buttons
 
