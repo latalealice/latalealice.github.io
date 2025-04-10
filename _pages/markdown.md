@@ -76,9 +76,9 @@ Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进�
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [alice](#)    | 2023   | 列表中项目的描述                          |
+| [alice](#)    | 2024   | 列表中项目的描述                          |
+| [arisu](#)     | 2025   | 列表中项目的描述                          |
 
 ### 表2
 
