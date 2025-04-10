@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: "latale"
 excerpt: "最近有些沉迷latale<br/><img src='/images/latale.png'>"
 collection: portfolio
 ---
