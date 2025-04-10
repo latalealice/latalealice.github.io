@@ -21,7 +21,7 @@ redirect_from:
 
 1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记（暂停）
 
-
+1. Learning From Data《Linear Algebra and Learning From Data》笔记
 
 追忆似水年华
 ======
