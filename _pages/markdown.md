@@ -54,7 +54,7 @@ $$
 
 ## Markdown 指南
 
-Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进行 Markdown 渲染，这与 GitHub 等其他 Markdown 实现略有不同。除了本指南外，请参阅 [kramdown 语法页面](https://kramdown.gettalong.org/syntax.html) 获取完整文档
+Academic Pages使用[kramdown](https://kramdown.gettalong.org/index.html) 进行Markdown渲染，这与GitHub等其他Markdown实现略有不同。除了本指南外，请参阅 [kramdown 语法页面](https://kramdown.gettalong.org/syntax.html)获取完整文档
 
 ### 标题三
 
@@ -95,10 +95,10 @@ Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进�
 ## 定义列表
 
 定义列表标题
-：定义列表划分。
+：定义列表划分
 
 初创公司
-：初创公司或创业公司是指旨在寻求可重复、可扩展商业模式的公司或临时组织。
+：初创公司或创业公司是指旨在寻求可重复、可扩展商业模式的公司或临时组织
 
 #dowork
 ：由 Rob Dyrdek 和他的私人保镖 Christopher “Big Black” Boykins 创造，“Do Work” 可以作为一种自我激励，也可以激励你的朋友
@@ -246,15 +246,15 @@ line-height: 1.2;
 
 ### 下标标签
 
-使用H<sub>2</sub>O进行科学样式设计，它会将“2”向下推
+使用H<sub>2</sub>O进行科学样式设计，它会将“2”下标
 
 ### 上标标签
 
-E= MC<sup>2</sup>，这会将“2”向上推
+E= MC<sup>2</sup>，这会将“2”上标
 
 ### 变量标签
 
-这允许您表示<var>变量</var>
+这允许您表示变量<var>X</var>
 
 ***
 **脚注**
