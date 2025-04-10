@@ -9,29 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.E. Aerospace Engineering, Nanjing University of Aeronautics and Astronautics
-* M.E. Aeronautical and Astronautical Science and Technology, Nanjing University of Aeronautics and Astronautics(currently enrolled)
+* 南京航空航天大学 航空航天工程 工学学士
+* 南京航空航天大学 航空宇航科学与技术 工学硕士在读
 
 
-Work experience
-======
-* NO
-
-Skills
+技能
 ======
 * ComsolMultiphysics
-* Machine Learning with Python
+* Pytorch
+* League of Legends?
+  
 
 
-Publications
+笔记
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Service and leadership
-======
-* NO
