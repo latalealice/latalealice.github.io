@@ -139,25 +139,22 @@ Do It Live
 
 
 
+## 按钮
 
-## Buttons
+使用 `.btn` 类可以使任何链接更加突出。
 
-Make any link standout more when applying the `.btn` class.
+## 通知
 
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
+使用以下语法来提醒：
 
 ```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+**注意！** 您还可以通过在段落后一行添加`{: .notice}` 来添加提醒  
 {: .notice}
 ```
+渲染结果如下：
 
-which wil render as:
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+**注意！** 您还可以通过在段落后一行添加`{: .notice}`来添加提醒  
 {: .notice}
-
 ### Footnotes
 
 Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
