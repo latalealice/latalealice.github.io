@@ -1,7 +1,7 @@
 # 欢迎使用Jekyll！  
 #
 # 此配置文件用于设置会影响您整个网站的值，这些值只需设置一次，之后几乎无需再进行修改  
-# 由于技术原因，当您使用 `jekyll serve -l -H localhost` 时，此文件不会自动重新加载。如果您更改此文件，请重新启动服务器进程  
+# 由于技术原因，当您使用“jekyll serve -l -H localhost”时，此文件不会自动重新加载。如果您更改此文件，请重新启动服务器进程  
 
 # Basic Site Settings
 locale                   : "zh-cn"
