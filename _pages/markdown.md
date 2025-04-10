@@ -155,53 +155,53 @@ Do It Live
 
 **注意！** 您还可以通过在段落后一行添加`{: .notice}`来添加提醒
 {: .notice}
-### Footnotes
+### 脚注
 
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
+脚注可用于阐明文本要点或引用信息。[^1] Markdown 支持数字脚注，以及文本（只要值是唯一的）。[^note]
 
 ```markdown
-This is the regular text.[^1] This is more regular text.[^note]
+这是常规文本。[^1] 这是更常规的文本[^note]
 
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
+[^1]：这是脚注本身
+[^note]：这是另一个脚注
 ```
 
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
+[^1]：例如此脚注
+[^note]：使用文本作为脚注标记时，名称中不允许有空格
 
-## HTML Tags
+## HTML 标签
 
-### Address Tag
+### 地址标签
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+1 Infinite Loop<br /> Cupertino, CA 95014<br /> 美国
 </address>
 
-### Anchor Tag (aka. Link)
+### 锚点标签（又称链接）
 
-This is an example of a [link](http://github.com "Github").
+这是一个 [link](http://github.com "Github") 的示例。
 
-### Abbreviation Tag
+### 缩写标签
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+CSS 的缩写代表“层叠样式表”。
 
-*[CSS]: Cascading Style Sheets
+*[CSS]：层叠样式表
 
-### Cite Tag
+### 引用标签
 
-"Code is poetry." ---<cite>Automattic</cite>
+“代码如诗。” ---<cite>Automattic</cite>
 
-### Code Tag
+### 代码标签
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+在后面的测试中，你将了解到 `word-wrap: break-word;` 将是你最好的朋友。
 
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
+您还可以编写更大的代码块，并使用某些语言（例如 Python）支持的语法高亮功能：
 
 ```python
 print('Hello World!')
 ```
 
-or R:
+或 R：
 
 ```R
 print("Hello World!", quote = FALSE)
@@ -223,17 +223,17 @@ print("Hello World!", quote = FALSE)
 
 这个鲜为人知的标签模拟了<kbd>键盘文本</kbd>，其样式通常类似于`<code>`标签。
 
-### Preformatted Tag
+### 预格式化标签
 
-This tag styles large blocks of code.
+此标签用于设置大段代码的样式。
 
 <pre>
 .post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+margin: 0 0 5px;
+font-weight: bold;
+font-size: 38px;
+line-height: 1.2;
+这里有一行非常非常非常长的文本，只是为了看看 PRE 标签如何处理它并找出它是如何溢出的；
 }
 </pre>
 
@@ -258,7 +258,6 @@ E= MC<sup>2</sup>，这会将“2”向上推。
 这允许您表示<var>变量</var>。
 
 ***
-**Footnotes**
+**脚注**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
+页面中的脚注将在此行之后返回，返回到 <a href="#footnotes">Markdown 脚注</a> 部分。
