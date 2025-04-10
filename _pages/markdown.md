@@ -82,14 +82,13 @@ Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进�
 
 ### 表2
 
-| Header1 | Header2 | Header3 |
+| 标头1 | 标头2 | 标头3 |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
+| 1   | 2   | 3   |
+| 4   | 5   | 6   |
 |-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| 7   | 8   | 9   |
+| 10   | 11   | 12   |
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
@@ -189,11 +188,11 @@ CSS 的缩写代表“层叠样式表”。
 
 ### 引用标签
 
-“代码如诗。” ---<cite>Automattic</cite>
+“代码如诗” ---<cite>Automattic</cite>
 
 ### 代码标签
 
-在后面的测试中，你将了解到 `word-wrap: break-word;` 将是你最好的朋友。
+在后面的测试中，你将了解到 `word-wrap: break-word;` 将是你最好的朋友
 
 您还可以编写更大的代码块，并使用某些语言（例如 Python）支持的语法高亮功能：
 
@@ -209,23 +208,23 @@ print("Hello World!", quote = FALSE)
 
 ### 删除标签
 
-此标签允许您<strike>删除文本</strike>。
+此标签允许您<strike>删除文本</strike>
 
 ### 强调标签
 
-强调标签应使文本变为斜体。
+强调标签应使文本变为斜体
 
 ### 插入标签
 
-此标签应指示<ins>插入</ins>文本。
+此标签应指示<ins>插入</ins>文本
 
 ### 键盘标签
 
-这个鲜为人知的标签模拟了<kbd>键盘文本</kbd>，其样式通常类似于`<code>`标签。
+这个鲜为人知的标签模拟了<kbd>键盘文本</kbd>，其样式通常类似于`<code>`标签
 
 ### 预格式化标签
 
-此标签用于设置大段代码的样式。
+此标签用于设置大段代码的样式
 
 <pre>
 .post-title {
@@ -243,21 +242,21 @@ line-height: 1.2;
 
 ### 强标签
 
-此标签显示**粗体文本**。
+此标签显示**粗体文本**
 
 ### 下标标签
 
-使用H<sub>2</sub>O进行科学样式设计，它会将“2”向下推。
+使用H<sub>2</sub>O进行科学样式设计，它会将“2”向下推
 
 ### 上标标签
 
-E= MC<sup>2</sup>，这会将“2”向上推。
+E= MC<sup>2</sup>，这会将“2”向上推
 
 ### 变量标签
 
-这允许您表示<var>变量</var>。
+这允许您表示<var>变量</var>
 
 ***
 **脚注**
 
-页面中的脚注将在此行之后返回，返回到 <a href="#footnotes">Markdown 脚注</a> 部分。
+页面中的脚注将在此行之后返回，返回到 <a href="#footnotes">Markdown 脚注</a> 部分
