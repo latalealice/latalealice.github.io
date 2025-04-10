@@ -207,21 +207,21 @@ or R:
 print("Hello World!", quote = FALSE)
 ```
 
-### Strike Tag
+### 删除标签
 
-This tag will let you <strike>strikeout text</strike>.
+此标签允许您<strike>删除文本</strike>。
 
-### Emphasize Tag
+### 强调标签
 
-The emphasize tag should _italicize_ text.
+强调标签应使文本变为斜体。
 
-### Insert Tag
+### 插入标签
 
-This tag should denote <ins>inserted</ins> text.
+此标签应指示<ins>插入</ins>文本。
 
-### Keyboard Tag
+### 键盘标签
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+这个鲜为人知的标签模拟了<kbd>键盘文本</kbd>，其样式通常类似于`<code>`标签。
 
 ### Preformatted Tag
 
@@ -237,25 +237,25 @@ This tag styles large blocks of code.
 }
 </pre>
 
-### Quote Tag
+### 引用标签
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+<q>开发者，开发者，开发者——</q> ——史蒂夫·鲍尔默
 
-### Strong Tag
+### 强标签
 
-This tag shows **bold text**.
+此标签显示**粗体文本**。
 
-### Subscript Tag
+### 下标标签
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+使用H<sub>2</sub>O进行科学样式设计，它会将“2”向下推。
 
-### Superscript Tag
+### 上标标签
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+E= MC<sup>2</sup>，这会将“2”向上推。
 
-### Variable Tag
+### 变量标签
 
-This allows you to denote <var>variables</var>.
+这允许您表示<var>变量</var>。
 
 ***
 **Footnotes**
