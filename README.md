@@ -33,7 +33,7 @@ Academic Pages 是用于学术网站的 Github Pages 模板
 
 模板的Bug报告和功能请求应通过[submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose)提交。有关如何设置模板样式的问题，请随时在[new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions)上发起新的讨论
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+这个仓库是由Stuart Geiger[Stuart Geiger](https://github.com/staeiou)从Minimal Mistakes Jekyll Theme[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)中分叉出来的，该主题是©2016年的Michael Rose，并在MIT许可证下发布（参见LICENSE.md）。它目前由Robert Zupko维护，欢迎其他维护者
 
 ## 错误修复和增强功能
 
