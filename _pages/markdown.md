@@ -7,37 +7,37 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 关键文件/目录的位置
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 基本配置选项：_config.yml  
+* 顶部导航栏配置：_data/navigation.yml  
+* 单个页面：_pages/  
+* 页面集合为.md或.html文件，位于：  
+* _publications/  
+* _portfolio/  
+* _posts/  
+* _teaching/  
+* _talks/  
+* 页脚_includes/footer.html  
+* 静态文件（如PDF）：/files/  
+* 头像（可在_config.yml中设置）：images/profile.png  
 
-## Tips and hints
+## 提示和技巧
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* 将文件命名为“.md”以Markdown格式渲染，命名为“.html”以HTML格式渲染
+* 前往代码库[commit list](https://github.com/academicpages/academicpages.github.io/commits/master)中的提交列表，查找Github使用Jekyll构建的最新版本
+  * 绿色勾选：构建成功
+  * 橙色圆圈：正在构建
+  * 红色 X：错误
+  * 无图标：未构建
 
-## Resources
+## 资源配置
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
+## 数学符号
 
-Support for MathJax Version 3.0 is included in the template:
+模板中包含对MathJax3.0版的支持：
 
 $$
 \displaylines{
@@ -48,27 +48,27 @@ $$
 }
 $$
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+显示数学表达式时，支持默认分隔符 `$$...$$` 和 `\\[...\\]`，而内联数学表达式则应使用 `\\(...\\)`
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+**注意** 尽管有一些[解决方法](https://math.codidact.com/posts/278763/278772#answer-278772)，但还是要注意：由于Academic Pages使用Markdown，因此在转义字符和换行符方面会对MathJax和LaTeX造成一些干扰
 
-## Markdown guide
+## Markdown 指南
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+Academic Pages 使用 [kramdown](https://kramdown.gettalong.org/index.html) 进行 Markdown 渲染，这与 GitHub 等其他 Markdown 实现略有不同。除了本指南外，请参阅 [kramdown 语法页面](https://kramdown.gettalong.org/syntax.html) 获取完整文档
 
-### Header three
+### 标题三
 
-#### Header four
+#### 标题四
 
-##### Header five
+##### 标题五
 
-###### Header six
+###### 标题六
 
-## Blockquotes
+## 区块引用
 
-Single line blockquote:
+单行区块引用：
 
-> Quotes are cool.
+> 引用很酷
 
 ## Tables
 
