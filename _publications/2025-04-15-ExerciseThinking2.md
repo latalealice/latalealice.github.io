@@ -7,6 +7,6 @@ date: 2025-04-15
 paperurl: 'http://latalealice.github.io/files/pytorch.pdf'
 ---
 
-python3.9.21、cuda11.8.89、
+python3.9.21、cuda11.8.89、pyTorch2.5.1……
   
 PDF下载地址请点击博客Pulications版块，电邮地址在博客左侧栏板块。
