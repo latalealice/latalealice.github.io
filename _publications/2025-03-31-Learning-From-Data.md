@@ -7,5 +7,5 @@ date: 2025-03-31
 paperurl: 'http://latalealice.github.io/files/learning_from_data.pdf'
 ---
 
-Notes on "LINEAR ALGEBRA AND LEARNING FROM DATA" by GILBERT STRANG.
-PDF下载地址请点击博客Pulications版块，电邮地址在博客左侧栏板块。
+Notes on "LINEAR ALGEBRA AND LEARNING FROM DATA" by GILBERT STRANG.  
+[PDF下载地址](http://latalealice.github.io/files/learning_from_data.pdf)，电邮地址在博客左侧栏板块。
