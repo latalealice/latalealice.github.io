@@ -7,5 +7,5 @@ date: 2024-11-18
 paperurl: 'http://latalealice.github.io/files/equations.pdf'
 ---
 
-Fourier Transform, Laplace Transform, Wave Equation, Hear Equation……
+Fourier Transform, Laplace Transform, Wave Equation, Hear Equation……  
 [PDF下载地址](http://latalealice.github.io/files/equations.pdf)，电邮地址在博客左侧栏板块。
