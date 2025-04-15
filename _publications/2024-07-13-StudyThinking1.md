@@ -1,7 +1,7 @@
 ---
 title: "StudyThinking卷一"
 collection: publications
-permalink: /publication/2024-07-13-StudyThinking
+permalink: /publication/2024-07-13-StudyThinking1
 excerpt: '这篇文章是《数学分析讲义》刘玉琏第六版的笔记，仅供参考学习'
 date: 2024-07-13
 paperurl: 'http://latalealice.github.io/files/StudyThinking.pdf'
