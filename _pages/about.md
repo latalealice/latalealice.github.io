@@ -11,19 +11,22 @@ redirect_from:
 移动端的UI显示依旧有问题，点击页面右上角的空白处即可呼出菜单栏  
 菜单栏第一行对应笔记栏、第二行图片栏、第三行博客栏、第四行个人简介栏以及第五行导航栏  
 
-翻译与笔记
+笔记
 ======
-1. Further Studies on the Thermal Equilibrium of Gas Molecules(借由Deepseek辅以Claude重新翻译)  
+1. ExerciseThinking 卷二 动手学深度学习 Pytorch 习题解  
 
-1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记
+1. Learning From Data《Linear Algebra and Learning From Data》笔记  
 
-1. Introduction to Machine Learning With Python（考虑到效率和时效性，暂停）
+1. Further Studies on the Thermal Equilibrium of Gas Molecules  
 
-1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记（暂停）
+1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记  
 
-1. Learning From Data《Linear Algebra and Learning From Data》笔记
+1. Introduction to Machine Learning With Python  
 
-1. Pytorch
+1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记
+
+
+
 
 
 
