@@ -17,7 +17,7 @@ redirect_from:
 
 1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记  
 
-1. ExerciseThinking卷一《数学分析讲义》刘玉琏第六版习题解  
+1. ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解  
 
 1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记  
 
