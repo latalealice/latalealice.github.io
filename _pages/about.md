@@ -21,7 +21,7 @@ redirect_from:
 
 1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记  
 
-1. Introduction to Machine Learning With Python  
+1. Machine Learning With Pytorch 
 
 1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记
 
