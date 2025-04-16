@@ -4,7 +4,7 @@
 # 由于技术原因，当您使用“jekyll serve -l -H localhost”时，此文件不会自动重新加载。如果您更改此文件，请重新启动服务器进程  
 
 # Basic Site Settings
-locale                   : "zh-cn"
+locale                   : "zh-CN"
 title                    : "latale alice / À la recherche du temps perdu"
 title_separator          : "-"
 name                     : &name "latale alice"
