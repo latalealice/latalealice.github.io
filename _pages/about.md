@@ -27,7 +27,7 @@ redirect_from:
   
 1. Machine Learning With Pytorch  
 
-1. ExerciseThinking 卷二 动手学深度学习 Pytorch 习题解  
+1. ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解  
 
 
 
