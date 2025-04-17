@@ -1,5 +1,5 @@
 ---
-title: "StudyThinking卷二"
+title: "ExerciseThinking卷二"
 collection: publications
 permalink: /publication/2024-11-28-ExerciseThinking2
 excerpt: '数学物理方程习题解'
