@@ -1,7 +1,7 @@
 ---
-title: "Learning From Data"
+title: "StudyThinking卷三"
 collection: publications
-permalink: /publication/2025-03-31-Learning-From-Data
+permalink: /publication/2025-03-31-StudyThinking3
 excerpt: '线性代数与数据学习笔记'
 date: 2025-03-31
 paperurl: 'http://latalealice.github.io/files/learning_from_data.pdf'
