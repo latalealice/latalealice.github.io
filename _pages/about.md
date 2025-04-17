@@ -23,9 +23,7 @@ redirect_from:
    
 1. ExerciseThinking 卷二 《数学物理方程简明教程》课后习题解   
 
-1. Learning From Data《Linear Algebra and Learning From Data》笔记  
-  
-1. Machine Learning With Pytorch  
+1. StudyThinking 卷三《Linear Algebra and Learning From Data》笔记  
 
 1. ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解  
 
