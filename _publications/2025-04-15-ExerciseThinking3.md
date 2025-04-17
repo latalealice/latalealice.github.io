@@ -1,7 +1,7 @@
 ---
-title: "ExerciseThinking卷二"
+title: "ExerciseThinking卷三"
 collection: publications
-permalink: /publication/2025-04-15-ExerciseThinking2
+permalink: /publication/2025-04-15-ExerciseThinking3
 excerpt: '动手学深度学习Pytorch习题'
 date: 2025-04-15
 paperurl: 'http://latalealice.github.io/files/pytorch.pdf'
