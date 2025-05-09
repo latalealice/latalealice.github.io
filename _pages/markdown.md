@@ -192,9 +192,8 @@ CSS 的缩写代表“层叠样式表”。
 
 ### 代码标签
 
-在后面的测试中，你将了解到 `word-wrap: break-word;` 将是你最好的朋友
 
-您还可以编写更大的代码块，并使用某些语言（例如 Python）支持的语法高亮功能：
+可以编写更大的代码块，并使用某些语言（例如 Python）支持的语法高亮功能：
 
 ```python
 print('Hello World!')
@@ -208,7 +207,7 @@ print("Hello World!", quote = FALSE)
 
 ### 删除标签
 
-此标签允许您<strike>删除文本</strike>
+此标签可以<strike>删除文本</strike>
 
 ### 强调标签
 
@@ -254,7 +253,7 @@ E= MC<sup>2</sup>，这会将“2”上标
 
 ### 变量标签
 
-这允许您表示变量<var>X</var>
+这可以表示变量<var>X</var>
 
 ***
 **脚注**
