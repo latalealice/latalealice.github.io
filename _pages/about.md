@@ -13,7 +13,7 @@ redirect_from:
 
 追忆似水年华
 ======
-1. [在桥边](https://github.com/latalealice/latalealice.github.io/blob/master/files/%E8%BF%BD%E5%BF%86%E4%BC%BC%E6%B0%B4%E5%B9%B4%E5%8D%8E.pdf)
+1. [在桥边](https://latalealice.github.io/files/%E8%BF%BD%E5%BF%86%E4%BC%BC%E6%B0%B4%E5%B9%B4%E5%8D%8E.pdf)
 
 
 
@@ -21,17 +21,17 @@ redirect_from:
 ======
 1. [Further Studies on the Thermal Equilibrium of Gas Molecules](https://github.com/latalealice/latalealice.github.io/blob/master/files/boltzman.pdf)  
 
-1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking1.pdf)  
+1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://latalealice.github.io/files/boltzman.pdf)  
 
-1. [ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking1.pdf)  
+1. [ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解](https://latalealice.github.io/files/ExerciseThinking1.pdf)  
 
-1. [StudyThinking 卷二 《数学物理方法》顾樵第一版笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking2.pdf)
+1. [StudyThinking 卷二 《数学物理方法》顾樵第一版笔记](https://latalealice.github.io/files/StudyThinking2.pdf)
    
-1. [ExerciseThinking 卷二 《数学物理方程简明教程》课后习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking2.pdf)   
+1. [ExerciseThinking 卷二 《数学物理方程简明教程》课后习题解](https://latalealice.github.io/files/ExerciseThinking2.pdf)   
 
-1. [StudyThinking 卷三《Linear Algebra and Learning From Data》笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking3.pdf)  
+1. [StudyThinking 卷三《Linear Algebra and Learning From Data》笔记](https://latalealice.github.io/files/StudyThinking3.pdf)  
 
-1. [ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking3.pdf)  
+1. [ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解](https://latalealice/latalealice.github.io/files/ExerciseThinking3.pdf)  
 
 
 
