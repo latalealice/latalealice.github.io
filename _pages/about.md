@@ -23,23 +23,15 @@ redirect_from:
 
 1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking1.pdf)  
 
-1. ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解  
+1. [ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking1.pdf)  
 
-1. StudyThinking 卷二 《数学物理方法》顾樵第一版笔记
+1. [StudyThinking 卷二 《数学物理方法》顾樵第一版笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking2.pdf)
    
-1. ExerciseThinking 卷二 《数学物理方程简明教程》课后习题解   
+1. [ExerciseThinking 卷二 《数学物理方程简明教程》课后习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking2.pdf)   
 
-1. StudyThinking 卷三《Linear Algebra and Learning From Data》笔记  
+1. [StudyThinking 卷三《Linear Algebra and Learning From Data》笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking3.pdf)  
 
-1. ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解  
-
-
-
-
-
-
-
-1. 
+1. [ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解](https://github.com/latalealice/latalealice.github.io/blob/master/files/ExerciseThinking3.pdf)  
 
 
 
