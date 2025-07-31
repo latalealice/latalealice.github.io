@@ -19,7 +19,7 @@ redirect_from:
 
 笔记
 ======
-1. [Further Studies on the Thermal Equilibrium of Gas Molecules](https://github.com/latalealice/latalealice.github.io/blob/master/files/boltzman.pdf)  
+1. [Further Studies on the Thermal Equilibrium of Gas Molecules](https://latalealice.github.io/files/boltzman.pdf)  
 
 1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://latalealice.github.io/files/boltzman.pdf)  
 
