@@ -11,11 +11,17 @@ redirect_from:
 移动端的UI显示依旧有问题，点击页面右上角的空白处即可呼出菜单栏  
 菜单栏第一行对应笔记栏、第二行图片栏、第三行博客栏、第四行个人简介栏以及第五行导航栏  
 
+追忆似水年华
+======
+1. [在桥边](https://github.com/latalealice/latalealice.github.io/blob/master/files/%E8%BF%BD%E5%BF%86%E4%BC%BC%E6%B0%B4%E5%B9%B4%E5%8D%8E.pdf)
+
+
+
 笔记
 ======
-1. Further Studies on the Thermal Equilibrium of Gas Molecules  
+1. [Further Studies on the Thermal Equilibrium of Gas Molecules](https://github.com/latalealice/latalealice.github.io/blob/master/files/boltzman.pdf)  
 
-1. StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记  
+1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://github.com/latalealice/latalealice.github.io/blob/master/files/StudyThinking1.pdf)  
 
 1. ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解  
 
@@ -31,9 +37,7 @@ redirect_from:
 
 
 
-追忆似水年华
-======
-1. 在桥边
+
 
 1. 
 
