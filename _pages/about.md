@@ -21,7 +21,7 @@ redirect_from:
 ======
 1. [Further Studies on the Thermal Equilibrium of Gas Molecules](https://latalealice.github.io/files/boltzman.pdf)  
 
-1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://latalealice.github.io/files/boltzman.pdf)  
+1. [StudyThinking 卷一《数学分析讲义》刘玉琏第六版笔记](https://latalealice.github.io/files/StudyThinking1.pdf)  
 
 1. [ExerciseThinking 卷一《数学分析讲义》刘玉琏第六版习题解](https://latalealice.github.io/files/ExerciseThinking1.pdf)  
 
@@ -31,7 +31,7 @@ redirect_from:
 
 1. [StudyThinking 卷三《Linear Algebra and Learning From Data》笔记](https://latalealice.github.io/files/StudyThinking3.pdf)  
 
-1. [ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解](https://latalealice/latalealice.github.io/files/ExerciseThinking3.pdf)  
+1. [ExerciseThinking 卷三 动手学深度学习 Pytorch 习题解](https://latalealice.github.io/files/ExerciseThinking3.pdf)  
 
 
 
