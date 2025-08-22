@@ -14,7 +14,7 @@ redirect_from:
 
 追忆似水年华
 ======
-1. [在桥边](https://latalealice.github.io/files/%E8%BF%BD%E5%BF%86%E4%BC%BC%E6%B0%B4%E5%B9%B4%E5%8D%8E.pdf)
+1. [在桥边](https://latalealice.github.io/files/remembrance.pdf)
 1. 天鹅湖上的钟楼
 1.   
 1.   
