@@ -1,5 +1,5 @@
 ---
-title: "À la recherche du temps perdu"
+title: "À la recherche du temps perdu 第一卷 在桥边"
 collection: publications
 permalink: /publication/2017-09-01-BytheBridge
 excerpt: '献给122625与1718'
