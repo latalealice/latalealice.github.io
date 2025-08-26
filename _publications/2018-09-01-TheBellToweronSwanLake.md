@@ -1,7 +1,7 @@
 ---
 title: "À la recherche du temps perdu"
 collection: publications
-permalink: /publication/2017-09-01-TheBellToweronSwanLake
+permalink: /publication/2018-09-01-TheBellToweronSwanLake
 excerpt: '献给122625与1718'
 date: 2018-09-01
 paperurl: 'http://latalealice.github.io/files/TheBellToweronSwanLake.pdf'
