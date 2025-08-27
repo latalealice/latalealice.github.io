@@ -16,8 +16,8 @@ redirect_from:
 ======
 1. [在桥边](https://latalealice.github.io/files/BytheBridge.pdf)
 1. [天鹅湖上的钟楼](https://latalealice.github.io/files/TheBellToweronSwanLake.pdf)
-1. [沈园庭中]  
-1. [盛放的梧桐]    
+1. [沈园庭中](https://latalealice.github.io/files/WithinShenGarden.pdf)  
+1. [盛放的梧桐](https://latalealice.github.io/files/WhentheWutongBlooms.pdf)    
 
 
 笔记
