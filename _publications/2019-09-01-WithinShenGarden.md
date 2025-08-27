@@ -1,7 +1,7 @@
 ---
 title: "À la recherche du temps perdu 第三卷 沈园庭中"
 collection: publications
-permalink: /publication/2019-09-01-WithinShenGarden.pdf
+permalink: /publication/2019-09-01-WithinShenGarden
 excerpt: '献给122625与1718'
 date: 2019-09-01
 paperurl: 'http://latalealice.github.io/files/WithinShenGarden.pdf'
